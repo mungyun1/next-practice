@@ -1,0 +1,12 @@
+.nav {
+  display: flex;
+  gap: 8px;
+  background-color: rgba(0, 0, 0, 0.5);
+  height: 40px;
+  align-items: center;
+}
+
+.nav > a {
+  color: #fff;
+  text-decoration: none;
+}
